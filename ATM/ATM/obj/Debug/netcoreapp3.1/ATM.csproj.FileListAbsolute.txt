@@ -1,0 +1,11 @@
+C:\Users\fatni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.exe
+C:\Users\fatni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.deps.json
+C:\Users\fatni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.json
+C:\Users\fatni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.runtimeconfig.dev.json
+C:\Users\fatni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.dll
+C:\Users\fatni\source\repos\ATM\ATM\bin\Debug\netcoreapp3.1\ATM.pdb
+C:\Users\fatni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.csprojAssemblyReference.cache
+C:\Users\fatni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfoInputs.cache
+C:\Users\fatni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.AssemblyInfo.cs
+C:\Users\fatni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.dll
+C:\Users\fatni\source\repos\ATM\ATM\obj\Debug\netcoreapp3.1\ATM.pdb
